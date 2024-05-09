@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:640/format:webp/1*zzTEyTwyy7jXibtqVWg84Q.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:640/format:webp/1*zzTEyTwyy7jXibtqVWg84Q.gif)
 
 <h1 align="center">Hi 👋, I'm Ahmet Serdıl HATİPOĞLU</h1>
 <h3 align="center">Mobile Developer</h3>
